@@ -1,0 +1,34 @@
+body {
+    font-family: "arial", sans-serif;
+    background-color: black;
+}
+
+p{
+    color: whitesmoke;
+}
+
+#title-div {
+    margin: auto;
+    width: 90%;
+    padding: 10px;
+}
+
+.title {
+    text-align: center;
+    color: white;
+    font-family: "Roboto", arial, serif;
+}
+
+.center-image {
+    display: block;
+    margin: auto;
+}
+
+#description-div {
+    margin-top: 50px;S
+    width: 90%;
+}
+.description-text {
+    text-align: center;
+    text-align: justify;
+}
